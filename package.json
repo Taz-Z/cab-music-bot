@@ -1,0 +1,23 @@
+{
+  "name": "cab-music-bot",
+  "version": "1.0.0",
+  "description": "Music bot for 1 server",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "prettier": "^2.6.2"
+  },
+  "scripts": {
+    "prettier": "prettier --write *.js* ./**/*.js*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taz-Z/cab-music-bot.git"
+  },
+  "author": "Taz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taz-Z/cab-music-bot/issues"
+  },
+  "homepage": "https://github.com/Taz-Z/cab-music-bot#readme"
+}
